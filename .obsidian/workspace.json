@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "223c1cff1c860d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05ee771a3d7c619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eba32d32bdee4544",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250524155934.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250524155934"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d83b76ac8df0837",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd802074772a1c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45964886ea489972",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "5226def20a23da8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "4c5eb2abdc0903ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.5
+  },
+  "right": {
+    "id": "2fa28b1ee71bc463",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fb5566b512ff6a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4956da0ae24dc11c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 의 백링크"
+            }
+          },
+          {
+            "id": "9a17b084ead5857c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 의 나가는 링크"
+            }
+          },
+          {
+            "id": "613953f499868f1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "6749774ba30cdb00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "eba32d32bdee4544",
+  "lastOpenFiles": [
+    "Kubernetes/따배쿠/2. Pod 개념 및 사용하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/1. kubeadm로 클러스터 설치하기.md",
+    "Pasted image 20250524165651.png",
+    "Pasted image 20250524165639.png",
+    "Kubernetes/따배쿠/1. 쿠버네티스 아키텍처.md",
+    "Pasted image 20250524161849.png",
+    "Pasted image 20250524160459.png",
+    "Pasted image 20250524155934.png",
+    "Kubernetes/0. 쿠버네티스 로컬 설치.md",
+    "Kubernetes/Pasted image 20250524151903.png",
+    "Linux/02. 리눅스와 하드웨어.md",
+    "Pasted image 20250524150953.png",
+    "Pasted image 20250524151626.png",
+    "Kubernetes/udemy/image.png",
+    "Kubernetes/image 1.png",
+    "Kubernetes/udemy/1_kubectl.md",
+    "Kubernetes/udemy/2_쿠버네티스아키텍처.md",
+    "Kubernetes/udemy/3_Replication Controller와 Replication Set.md",
+    "Kubernetes/udemy",
+    "README.md",
+    "무제"
+  ]
+}
