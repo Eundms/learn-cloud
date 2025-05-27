@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b05ee771a3d7c619",
+        "id": "eaa1a382146e4693",
         "type": "tabs",
         "children": [
           {
-            "id": "eba32d32bdee4544",
+            "id": "7fbd3f57d8a8f2a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250524155934.png"
+                "file": "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. kubeadm로 클러스터 설치하기.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250524155934"
+              "icon": "lucide-file",
+              "title": "2. kubeadm로 클러스터 설치하기"
             }
           }
         ]
@@ -148,12 +150,23 @@
               "icon": "lucide-list",
               "title": "README 의 개요"
             }
+          },
+          {
+            "id": "63abfc0d05e3c4d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,23 +180,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eba32d32bdee4544",
+  "active": "7fbd3f57d8a8f2a0",
   "lastOpenFiles": [
-    "Kubernetes/따배쿠/2. Pod 개념 및 사용하기.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/1. kubeadm로 클러스터 설치하기.md",
-    "Pasted image 20250524165651.png",
-    "Pasted image 20250524165639.png",
-    "Kubernetes/따배쿠/1. 쿠버네티스 아키텍처.md",
-    "Pasted image 20250524161849.png",
-    "Pasted image 20250524160459.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/1. 컨테이너 한방 정리.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. kubeadm로 클러스터 설치하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/강의 스케줄표 5월 26일(월) 저녁 9시.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/Pasted image 20250527182833.png",
     "Pasted image 20250524155934.png",
-    "Kubernetes/0. 쿠버네티스 로컬 설치.md",
+    "Kubernetes/따배쿠/3. Controller.md",
     "Kubernetes/Pasted image 20250524151903.png",
+    "Kubernetes/따배쿠/1. 쿠버네티스 아키텍처.md",
+    "Kubernetes/무제.canvas",
+    "Kubernetes/따배쿠/2. Pod 개념 및 사용하기.md",
+    "Pasted image 20250524160459.png",
+    "Kubernetes/따배쿠/Pasted image 20250524161849.png",
+    "Kubernetes/따배쿠/Pasted image 20250524165639.png",
+    "Kubernetes/따배쿠/Pasted image 20250525085603.png",
+    "Kubernetes/따배쿠/Pasted image 20250524165651.png",
+    "Kubernetes/따배쿠/Pasted image 20250525104300.png",
+    "Kubernetes/따배쿠/Pasted image 20250525104031.png",
+    "Kubernetes/0. 쿠버네티스 로컬 설치.md",
     "Linux/02. 리눅스와 하드웨어.md",
-    "Pasted image 20250524150953.png",
-    "Pasted image 20250524151626.png",
-    "Kubernetes/udemy/image.png",
-    "Kubernetes/image 1.png",
     "Kubernetes/udemy/1_kubectl.md",
     "Kubernetes/udemy/2_쿠버네티스아키텍처.md",
     "Kubernetes/udemy/3_Replication Controller와 Replication Set.md",
