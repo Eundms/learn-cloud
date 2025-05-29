@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa1a382146e4693",
+        "id": "59a971c1079e14b9",
         "type": "tabs",
         "children": [
           {
-            "id": "7fbd3f57d8a8f2a0",
+            "id": "43485cb28af391b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. kubeadm로 클러스터 설치하기.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. kubeadm로 클러스터 설치하기"
+              "title": "새 탭"
             }
           }
         ]
@@ -180,26 +176,33 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7fbd3f57d8a8f2a0",
+  "active": "43485cb28af391b0",
   "lastOpenFiles": [
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/1. 컨테이너 한방 정리.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. kubeadm로 클러스터 설치하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115431.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115356.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115345.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115209.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115335.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3. 실무에서 느껴본 쿠버네티스가 정말 편한 이유.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529114805.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250524151903.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/강의 스케줄표 5월 26일(월) 저녁 9시.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/Pasted image 20250527182833.png",
-    "Pasted image 20250524155934.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1.1. Loki 데이터 소스 추가 및 로그 검색 설정.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529114325.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529113854.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529113835.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.0. 발생했던 문제 - 31221 connection refused.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1. 장애 원인 찾는 로직을 따라해보자.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.2. 미션 1 - 복습하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.1. kubeadm로 클러스터 설치하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. 쿠버네티스 무게감 있게 설치하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/1. 컨테이너 한방 정리.md",
+    "Kubernetes/0. 쿠버네티스 로컬 설치.md",
     "Kubernetes/따배쿠/3. Controller.md",
-    "Kubernetes/Pasted image 20250524151903.png",
     "Kubernetes/따배쿠/1. 쿠버네티스 아키텍처.md",
     "Kubernetes/무제.canvas",
     "Kubernetes/따배쿠/2. Pod 개념 및 사용하기.md",
-    "Pasted image 20250524160459.png",
-    "Kubernetes/따배쿠/Pasted image 20250524161849.png",
-    "Kubernetes/따배쿠/Pasted image 20250524165639.png",
-    "Kubernetes/따배쿠/Pasted image 20250525085603.png",
-    "Kubernetes/따배쿠/Pasted image 20250524165651.png",
-    "Kubernetes/따배쿠/Pasted image 20250525104300.png",
-    "Kubernetes/따배쿠/Pasted image 20250525104031.png",
-    "Kubernetes/0. 쿠버네티스 로컬 설치.md",
     "Linux/02. 리눅스와 하드웨어.md",
     "Kubernetes/udemy/1_kubectl.md",
     "Kubernetes/udemy/2_쿠버네티스아키텍처.md",
