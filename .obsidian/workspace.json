@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59a971c1079e14b9",
+        "id": "79086332991be779",
         "type": "tabs",
         "children": [
           {
-            "id": "43485cb28af391b0",
+            "id": "8100ff1f4e3bbdea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,24 +176,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "43485cb28af391b0",
+  "active": "8100ff1f4e3bbdea",
   "lastOpenFiles": [
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/4. Object 그려보며 이해하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3. 실무에서 느껴본 쿠버네티스가 정말 편한 이유.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.0. 발생했던 문제 - 31221 connection refused.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1. 장애 원인 찾는 로직을 따라해보자.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/강의 스케줄표 5월 26일(월) 저녁 9시.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1.1. Loki 데이터 소스 추가 및 로그 검색 설정.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115431.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115356.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115345.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115209.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529115335.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3. 실무에서 느껴본 쿠버네티스가 정말 편한 이유.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529114805.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250524151903.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/강의 스케줄표 5월 26일(월) 저녁 9시.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1.1. Loki 데이터 소스 추가 및 로그 검색 설정.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529114325.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529113854.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250529113835.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.0. 발생했던 문제 - 31221 connection refused.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1. 장애 원인 찾는 로직을 따라해보자.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.2. 미션 1 - 복습하기.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.1. kubeadm로 클러스터 설치하기.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. 쿠버네티스 무게감 있게 설치하기.md",
