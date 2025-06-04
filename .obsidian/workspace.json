@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55fa007c40034a1a",
+        "id": "df3af914171b0b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "7185298dbaeec61b",
+            "id": "8678b8a63e2dd5e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "image",
+              "state": {
+                "file": "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604120846.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250604120846"
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "api-tester-1231-5c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,28 +180,35 @@
   },
   "active": "45964886ea489972",
   "lastOpenFiles": [
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/7. Application 기능으로 이해하기 - PV PVC, Deployment, Service, HPA.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/7.4. 실습4 - HPA - search.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/7.3 실습3 - Service -search.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/7.2. 실습2 - Deployment.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/7.1. 실습1 - PV와 PVC 기능 이해하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604133443.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604133340.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604133043.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604132631.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604132528.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604132321.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604131823.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604131453.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604131008.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250604130843.png",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/4. Object 그려보며 이해하기.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/6.1. 미션3. Application 기능으로 이해하기 - Configmap, Secret 응용과제.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/6. Application 기능으로 이해하기 - Configmap과 Secret.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/5.1.1. 미션2 - Probe 응용 과제.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/5.1. 실습.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/5. Application 기능으로 이해하기 - Probe.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3. 실무에서 느껴본 쿠버네티스가 정말 편한 이유.md",
+    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.2. 미션 1 - 복습하기.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.1. kubeadm로 클러스터 설치하기.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2. 쿠버네티스 무게감 있게 설치하기.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/1. 컨테이너 한방 정리.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/5.1.1. 미션2 - Probe 응용 과제.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/5.1. 실습.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/5. Application 기능으로 이해하기.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/4. Object 그려보며 이해하기.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531112256.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531112133.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531110354.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531105555.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531105257.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531104950.png",
-    "Pasted image 20250531112146.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531112058.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531112018.png",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img/Pasted image 20250531111848.png",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/강의 스케줄표 5월 26일(월) 저녁 9시.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1.1. Loki 데이터 소스 추가 및 로그 검색 설정.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.0. 발생했던 문제 - 31221 connection refused.md",
-    "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/2.2. 미션 1 - 복습하기.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/3.1. 장애 원인 찾는 로직을 따라해보자.md",
     "Kubernetes/쿠버네티스 어나더 클래스 (지상편) - Sprint 1, 2/img",
     "Kubernetes/0. 쿠버네티스 로컬 설치.md",
@@ -208,11 +217,7 @@
     "Kubernetes/무제.canvas",
     "Kubernetes/따배쿠/2. Pod 개념 및 사용하기.md",
     "Linux/02. 리눅스와 하드웨어.md",
-    "Kubernetes/udemy/1_kubectl.md",
-    "Kubernetes/udemy/2_쿠버네티스아키텍처.md",
-    "Kubernetes/udemy/3_Replication Controller와 Replication Set.md",
     "Kubernetes/udemy",
-    "README.md",
     "무제"
   ]
 }
